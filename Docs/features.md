@@ -1,6 +1,0 @@
-- AI UPSC chatbot
-- Quiz generator
-- Study planner
-- Current affairs
-- User login
-- Dashboard
